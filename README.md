@@ -235,32 +235,6 @@ http://localhost:8501
 
 ---
 
-# 📸 Screenshots
-
-## Home Page
-
-(Add Screenshot Here)
-
----
-
-## Image Detection
-
-(Add Screenshot Here)
-
----
-
-## Video Detection
-
-(Add Screenshot Here)
-
----
-
-## Prediction Result
-
-(Add Screenshot Here)
-
----
-
 # 📊 Model Workflow
 
 ```
