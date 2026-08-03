@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.pth
+*.pt
+
+# Environment variables
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Temporary uploads
+temp/
+uploads/
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
