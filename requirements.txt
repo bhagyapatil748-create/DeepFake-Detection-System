@@ -17,3 +17,4 @@ matplotlib
 scikit-learn
 torchmetrics
 tqdm
+reportlab==4.2.2
