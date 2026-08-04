@@ -6,6 +6,7 @@ import time
 from models import load_video_model
 from utils import extract_frames
 from utils import get_video_info
+import torch.nn.functional as F
 
 # ==========================================================
 # DEVICE
