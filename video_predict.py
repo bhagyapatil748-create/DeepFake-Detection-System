@@ -1,6 +1,6 @@
 import torch
-import torch.nn.functional as F
-import time
+import torch.nn
+import os
 
 from models import load_video_model
 from utils import extract_frames
@@ -132,7 +132,6 @@ if __name__ == "__main__":
     print("Video Information")
 
     print(info)
-    import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
